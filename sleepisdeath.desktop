@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=Sleep Is Death
+Comment=A storytelling game for two players by Jason Rohrer
+Exec=sleepisdeath
+Icon=sleepisdeath.png
+Terminal=false
+Categories=Game;AdventureGame;
